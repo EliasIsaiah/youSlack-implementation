@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EliasIsaiah/youSlack-implementation/issues"
   },
-  "homepage": "https://github.com/EliasIsaiah/youSlack-implementation#readme"
+  "homepage": "https://github.com/EliasIsaiah/youSlack-implementation#readme",
+  "dependencies": {
+    "YouSlackBot": "^1.0.2"
+  }
 }
